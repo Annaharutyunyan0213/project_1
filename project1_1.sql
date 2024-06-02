@@ -12,4 +12,4 @@ SELECT
 FROM project_1
 GROUP BY age_group,product_category,gender
 ORDER BY age_group
-
+--aaa
